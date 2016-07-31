@@ -14,7 +14,7 @@ h2 {
 }
 #all1 {
 	padding: 10px;
-	max-width: 50%;
+	max-width: 60%;
 	border: 5px pink; 
 	margin: 50px;
 	background: white;
@@ -24,7 +24,7 @@ h2 {
 }
 #all2 {
 	padding: 10px;
-	max-width: 50%;
+	max-width: 40%;
 	border: 5px pink; 
 	margin: 50px;
 	background: white;
@@ -33,7 +33,7 @@ h2 {
 	
 }#all3 {
 	padding: 10px;
-	max-width: 50%;
+	max-width: 60%;
 	border: 5px pink; 
 	margin: 50px;
 	background: white;
@@ -42,7 +42,7 @@ h2 {
 	
 }#all4 {
 	padding: 10px;
-	max-width: 50%;
+	max-width: 30%;
 	border: 5px pink; 
 	margin: 50px;
 	background: white;
@@ -51,14 +51,14 @@ h2 {
 	
 }#all5 {
 	padding: 10px;
-	max-width: 50%;
+	max-width: 70%;
 	border: 5px pink; 
 	margin: 50px;
 	background: white;
 	margin-left: 0px;
 	
 }
-.box {
+.headtext {
 	font-family: cursive;
 	color: purple;
 }
