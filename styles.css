@@ -2,8 +2,7 @@
 
 body {
 	background-image: url("images/369.jpg");
-	
-	
+		
 }
 h1 {
 	
@@ -14,26 +13,56 @@ h2 {
 	
 }
 #all1 {
-	padding: 40 px;
-	margin: 50 px;
-	border: 3px dotted pink;
+	padding: 10px;
+	max-width: 50%;
+	border: 5px pink; 
+	margin: 50px;
 	background: white;
+	margin-left: 0px;
 	
 	
 }
-
 #all2 {
-	margin: 50 px;
-	border: 3px dotted pink;
+	padding: 10px;
+	max-width: 50%;
+	border: 5px pink; 
+	margin: 50px;
 	background: white;
+	margin-left: 0px;
 	
+	
+}#all3 {
+	padding: 10px;
+	max-width: 50%;
+	border: 5px pink; 
+	margin: 50px;
+	background: white;
+	margin-left: 0px;
+	
+	
+}#all4 {
+	padding: 10px;
+	max-width: 50%;
+	border: 5px pink; 
+	margin: 50px;
+	background: white;
+	margin-left: 0px;
+	
+	
+}#all5 {
+	padding: 10px;
+	max-width: 50%;
+	border: 5px pink; 
+	margin: 50px;
+	background: white;
+	margin-left: 0px;
 	
 }
 .box {
 	font-family: cursive;
 	color: purple;
-
 }
-h1, h2, h3, h4, h5, h6{
-  line-height: 30px; 
+.main {
+	background: purple;
+	border: 2px pink;
 }
