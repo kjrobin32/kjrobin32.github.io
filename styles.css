@@ -1,3 +1,121 @@
+
+header {
+	display: block;
+	margin: auto;
+	max-width: 10%;
+	background: white;
+	border: 30px black;	
+	border-style: solid;
+    border-width: 5px;
+	padding: 20px;
+	margin-bottom: 30px;
+	font-family: Impact; 
+}
 body {
-	background: blue
+	background-image: url("images/369.jpg");		
+}
+h1, h2,h3 {
+	font-size: 20px;
+}
+#all1 {
+	padding: 10px;
+	max-width: 60%;
+	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
+	background: white;
+	margin-left: 0px;	
+}
+#all2 {
+	padding: 10px;
+	max-width: 40%;
+	border: 10px pink;
+	border-style: solid;
+    border-width: 5px;
+	margin: 50px;
+	background: white;
+	margin-left: 0px;
+	}
+#all3 {
+	padding: 10px;
+	max-width: 60%;
+	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
+	margin: 50px;
+	background: white;
+	margin-left: 0px;	
+	}
+#all4 {
+	padding: 10px;
+	max-width: 30%;
+	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
+	margin: 50px;
+	background: white;
+	margin-left: 0px;
+	}
+	#all5 {
+	padding: 10px;
+	max-width: 70%;
+	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
+	margin: 50px;
+	background: white;
+	margin-left: 0px;	
+	}
+.headtext {
+	font-family: cursive;
+	color: purple;
+	}
+footer {
+	border: 2px black;
+	border-style: solid;
+    border-width: 5px;
+	margin: auto;
+	max-width: 25%;
+	background: white;
+	text-align: center;
+	}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: pink;
+}
+@media screen and (max-width: 600px) {
+  header {
+    background-color: hotpink;
+    display:inline;
+    margin-bottom: 20px;  
+      }
+}
+@media screen and (max-width: 800px) {
+   #all1 {
+    background-color: yellow;
+    display: inline-block;
+    margin: auto;
+}
+@media screen and (max-width: 600px) {
+   #all2 {
+    background-color: tan;
+    display: inline-block;
+    margin: auto;
+}
+@media screen and (max-width: 700px) {
+   #all3 {
+    background-color: silver;
+    display: inline-block;
+    margin: auto;
+}
+@media screen and (max-width: 700px) {
+   #all5 {
+    background-color: grey;
+    display: inline-block;
+    margin: auto;
 }
