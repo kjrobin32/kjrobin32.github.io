@@ -1,11 +1,12 @@
 
 header {
 	display: block;
-	border: 2px black;
 	margin: auto;
 	max-width: 10%;
 	background: white;
-	border: 3px black;
+	border: 30px black;	
+	border-style: solid;
+    border-width: 5px;
 	padding: 20px;
 	margin-bottom: 30px;
 	font-family: Impact; 
@@ -20,13 +21,17 @@ h1, h2,h3 {
 	padding: 10px;
 	max-width: 60%;
 	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
 	background: white;
 	margin-left: 0px;	
 }
 #all2 {
 	padding: 10px;
 	max-width: 40%;
-	border: 5px pink; 
+	border: 10px pink;
+	border-style: solid;
+    border-width: 5px;
 	margin: 50px;
 	background: white;
 	margin-left: 0px;
@@ -35,6 +40,8 @@ h1, h2,h3 {
 	padding: 10px;
 	max-width: 60%;
 	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
 	margin: 50px;
 	background: white;
 	margin-left: 0px;	
@@ -43,6 +50,8 @@ h1, h2,h3 {
 	padding: 10px;
 	max-width: 30%;
 	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
 	margin: 50px;
 	background: white;
 	margin-left: 0px;
@@ -51,6 +60,8 @@ h1, h2,h3 {
 	padding: 10px;
 	max-width: 70%;
 	border: 5px pink; 
+	border-style: solid;
+    border-width: 5px;
 	margin: 50px;
 	background: white;
 	margin-left: 0px;	
@@ -61,6 +72,8 @@ h1, h2,h3 {
 	}
 footer {
 	border: 2px black;
+	border-style: solid;
+    border-width: 5px;
 	margin: auto;
 	max-width: 25%;
 	background: white;
