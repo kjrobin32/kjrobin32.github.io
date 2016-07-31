@@ -1,3 +1,39 @@
+
+
 body {
-	background: blue
+	background-image: url("images/369.jpg");
+	
+	
+}
+h1 {
+	
+	display: inline-block;	
+	margin; 
+}
+h2 {
+	
+}
+#all1 {
+	padding: 40 px;
+	margin: 50 px;
+	border: 3px dotted pink;
+	background: white;
+	
+	
+}
+
+#all2 {
+	margin: 50 px;
+	border: 3px dotted pink;
+	background: white;
+	
+	
+}
+.box {
+	font-family: cursive;
+	color: purple;
+
+}
+h1, h2, h3, h4, h5, h6{
+  line-height: 30px; 
 }
