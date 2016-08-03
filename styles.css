@@ -80,8 +80,7 @@ footer {
 	text-align: center;
 	}
 a:visited {
-    color: pu
-    ;
+    color: red;
 }
 a:hover {
     color: yellow;
@@ -92,7 +91,7 @@ a:active {
 @media screen and (max-width: 600px) {
   header {
     background-color: hotpink;
-    display: inline;
+    display:inline;
     margin-bottom: 20px;  
       }
 }
@@ -119,4 +118,4 @@ a:active {
     background-color: grey;
     display: inline-block;
     margin: auto;
-   }
+}
